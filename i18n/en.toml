@@ -34,8 +34,6 @@ other = "Light Mode"
 [dark_mode]
 other = "Dark Mode"
 
-[edit_source]
-other = "Edit Source"
 
 [interactive_graph]
 other = "Interactive Graph"
